@@ -1,0 +1,4 @@
+username: ubuntu
+project_name: humangov
+project_path: "/home/{{ username }}/{{ project_name }}"
+source_application_path: /home/hugo/human-gov-application/src
